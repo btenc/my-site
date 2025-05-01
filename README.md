@@ -1,2 +1,3 @@
-# bytes-of-me
-Minimal XHTML web portfolio and blog thing.
+# Bytes of Me
+
+Personal & minimal XHTML landing page and blog thing.
