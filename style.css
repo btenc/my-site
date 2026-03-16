@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap");
 
 :root {
-  /* — Bright (light) palette — */
   --gb-light0: #fbf1c7; /* bg */
   --gb-red: #cc241d;
   --gb-green: #98971a;
@@ -9,9 +8,8 @@
   --gb-blue: #458588;
   --gb-purple: #b16286;
   --gb-aqua: #689d6a;
-  --gb-gray: #7c6f64; /* fg in bright row */
+  --gb-gray: #7c6f64;
 
-  /* — Faded (hard-contrast) palette — */
   --gb-faded-red: #9d0006;
   --gb-faded-green: #79740e;
   --gb-faded-yellow: #b57614;
@@ -20,21 +18,18 @@
   --gb-faded-aqua: #427b58;
   --gb-faded-fg: #3c3836;
 
-  /* — Background tiers (light variants) — */
   --gb-light0-h: #f9f5d7;
   --gb-light1: #ebdbb2;
   --gb-light2: #d5c4a1;
   --gb-light3: #bdae93;
   --gb-light4: #a89984;
 
-  /* — Foreground tiers (dark variants) — */
   --gb-fg0: #282828;
   --gb-fg1: #3c3836;
   --gb-fg2: #504945;
   --gb-fg3: #665c54;
   --gb-fg4: #7c6f64;
 
-  /* — Accent orange variants — */
   --gb-orange: #d65d0e;
   --gb-orange-fade: #af3a03;
 }
